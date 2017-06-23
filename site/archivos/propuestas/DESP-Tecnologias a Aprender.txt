@@ -1,0 +1,109 @@
+
+
+
+** Mañana: Continuar Funcion Permisos de Usuario y Previlegios.-
+
+
+* crear cliente desde elaborar propuesta.
+
+- En la vista del gerente falta considerar los precios bloqueados.
+
+- Calcular desde precio ambt
+- mostrar el siguiente mensaje "Usted eligio aprobar propuesta tal como esta".
+- Poner en funcionamiento el modulo propuesta Plantilla Hectarea Descuento por Paquete.
+
+
+*****
+- VER COMO HACER PARA APLICAR IGV. (OK)
+- EL IGV SE MUESTRA EN EL DESPACHO. SI ES POR VOLUMEN SE MUESTRA DIRECTO. (OK)
+- ZONA: INCLUYE O NO INCLUYE ENVIOS.
+- ERROR AL ELIMINAR UN PRODUCTO DE UNA PROPUESTA.
+- MOSTRAR PRECIOS DE CLIENTES AL GERENTE
+- QUE EL SISTEMA PERMITA DAR PRECIOS AL CLIENTES, SEGUN LA DISTANCIA
+- PROPIEDADES DE HTML2PDF -> CREAR MARCA DE AGUA PARA PROPUESTAS: http://wiki.spipu.net/doku.php?id=html2pdf:en:v4:page
+- INDICAR QUE SIGNIFICA LOS ASTERISCOS EN LAS PROPUESTAS. (OK)
+- BETZA DEBE ADJUNTAR ARCHIVOS
+- CUANDO UN CLIENTE ES NUEVO Y NO SE TIENE EL DNI, SE PONE UN DNI PROVISIONAL, Y SI DESPUES SE DESEA MODIFICAR ESE DNI COMO SE HACE?
+- SI SE ACTUALIZA LA PROPUESTA, EL REDONDEO O CONVERSION A BIDONES NO SE ACTUALIZAN
+
+***
+APUNTES SOBRE PROPUESTAS
+- LA PROPUESTA AGRPR-CI-0070816-V02, es una propuesta NIVEL PRO. Tiene 3 items y varios despachos.
+
+- 
+
+***
+- Cosas pendientes organizar por fecha reciente los archivos de stock
+
+**
+EMPRESA LYSPA. SALARIO 6,000 * 12 = 72000
+- ITIL
+- PL/SQL, Websphere, weblogic
+- Oracle, WebServices Bus y SOA Suit
+- Servicios Web
+- PHP, Phyton, Java, .Net, Linux
+- Schedulers
+- Modeladores de Proceso RSA, ARIS o BIZAGI
+
+**
+EMPRESA CLARO SOLICITA LO SIGUENTE
+- Formación universitaria concluida en Ingeniería de Sistemas, Ingeniería Informática o Ingeniería Telecomunicaciones.
+- Habilidades de comunicación y gestión de equipos.
+- Experiencia en empresas de telecomunicaciones en desarrollo e integración de aplicaciones para los procesos post venta.
+- Conocimientos en metodologías para la ejecución de proyectos y tecnologías de desarrollo de aplicaciones (Java, .Net, SOA, BD Oracle).
+- Conocimiento de System Architect (RSA) o similar.
+- Conocimiento de TOGAF (Arquitectura Empresarial), Tecnologías de Integración entre Aplicaciones y Modelamiento de Procesos de Negocio (eTOM)
+
+ANALISTA DE BI » Lima, Lima
+
+Requisitos:
+
+Formación universitaria Titulado o Bachiller en Ingeniería de Sistemas, Informática, Telecomunicaciones, afines
+Experiencia de 2 años trabajando en BI o DWH
+Conocimientos en gestión de proyectos
+Conocimientos en tecnologías de BI de última generación.
+Manejo de Oracle a nivel intermedio.
+Experiencia en el rubro de telecomunicaciones (Deseable)
+Contar con cursos de especialización en tecnologías en BI (Data mining, warehouse, entre otros). (Deseable)
+Manejo de Excel a nivel avanzado.
+Inglés a nivel intermedio.  
+Responsabilidades:
+
+Diseñar y mantener actualizada la documentación de la arquitectura de datos BI mediante el uso adecuado de recursos, tecnologías y estándares, garantizando altos niveles de calidad, integración, flexibilidad y eficiencia, alineados a la dinámica del negocio.
+Coordinar con proveedores y clientes (internos/externos) la atención de los requerimientos.
+Generar los estándares, definiciones y mejores prácticas que aseguren la correcta integración entre las plataformas y/o sistemas a su cargo.
+Investigar herramientas o metodologías de BI para soportar el negocio.
+Analizar las necesidades en Business Intelligence de diversas áreas de la compañía
+
+
+
+**
+IBM
+
+- Programador de DataWareHouse
+Egresado de Ing de Sistemas o afines,                                                         
+Experiencia mínima de 2 a 4 años en implementaciones de soluciones BI.       
+Experiencia en Desarrollo de aplicaciones usando las herramientes DataWareHouse
+Conocimiento de la terminologia, metodologia, conceptos de BI (obligatorio)
+Experiencia en otras herramientas BI: BO, PowerCenter, MicroStrategy. Conocimiento en PL/SLQ Oracle Developer y BD Oracle                                          
+Conocimientos de Oracle – PLSQL
+
+- Desarrollador HTML5
+1 año de experiencia en desarrollo de aplicaciones móviles híbridas.
+1 año de experiencia en javascript, html5 y css.
+Experiencia de haber trabajado con SMP de SAP.
+Experiencia utilizando metodologías ágiles
+Experiencia en desarrollo de aplicaciones móviles seguras.
+Certificado que acredite la obtención del grado (Universidad o Instituto) de las carreras de Ingeniería Informática, Tecnologías de Información y Sistemas.
+
+**
+Mis Publicaciones
+- Metodologias Agiles
+- SOA
+- Ajax y Jquery
+
+La conclusión es sencilla, si no usas patrones, deberías hacerlo. Los patrones ayudan a estandarizar el código, haciendo que el diseño sea más comprensible para otros programadores. Son muy buenas herramientas, y como programadores, siempre deberíamos usar las mejores herramientas a nuestro alcance.
+
+
+07/12/2016
+=========================================================================

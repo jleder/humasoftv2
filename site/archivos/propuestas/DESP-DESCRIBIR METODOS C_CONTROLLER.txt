@@ -1,0 +1,53 @@
+getPropuestasxAprobGerente = lista propuestas a ser aprobadas por el gerente.
+insertPropxAprob = registrar propuesta a ser aprobada por el gerente.
+updatePropxAprob = modificar propuesta.
+deletePropxAprob = eliminar una propuesta
+
+insertPropxAprobDetalle() = inserta un detalle de propuesta
+updatePropxAprobDetalle]() = actualiza un detalle de propuesta
+deletePropxAprobDetalle() = eliminar un detalle de propuesta
+
+
+El sabio puede sentarse en un hormiguero, pero sólo el necio se queda sentado en él
+
+Destacar en el mundo de primer nivel requiere disciplina, confianza, personalidad y dedicación.
+Aqui es otro level.
+Disciplina = Organizacion + Limpieza + Puntualidad
+La disciplina tarde o temprano vencerá a la inteligencia.
+
+
+- Sistemas Operativos
+- Algoritmos
+- Redes Computacionales: TCP/IP Illustrated Vol 3
+- Administración de Base de Datos: Database Management Systems
+Mongo, Neo4j
+
+- Programación Orientada a Objetos
+- Sistemas Operativos
+- Algoritmos
+- Redes Computacionales
+- Administración de Base de Datos
+
+140
+145
+
+Requisitos
+Que todos los productos tengan precios definidos.
+Agrupar productos
+
+
+Agregar 
+MPB
+Fabio Jr
+- Alma Gemea
+Ana Carolina
+- encostar na tua
+- pra rua me levar
+natalia siqueira 
+- vc me ensinou amar
+- vc vai voltar pra mim
+Arthur Aguiar
+- A Flor
+
+
+

@@ -1,0 +1,32 @@
+
+regimen 70
+- numero dua
+- fecha numeracion
+- fecha retiro aduana
+
+importaciones (20 campos)
+===========
+codigo
+numero_oc
+fec_oc
+numero_fac
+fec_fac
+incoterm
+via
+carga_tipo
+carga_agente
+blawb
+agente_aduana
+fec_entrega
+fec_zarpe
+fec_arribo
+nave
+linea_naviera
+agente_portuario
+nro_volante
+alma_aduanero //almacen aduanero
+numero_container
+
+230682992-68
+fTRVD7Qu
+P=Wl*9u@

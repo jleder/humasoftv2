@@ -1,0 +1,164 @@
+﻿<script type='text/javascript'>
+    //    setTimeout("document.getElementById('mensaje').style.visibility='hidden'", 1000);
+    $("#mensaje").delay(2000).hide(1000);
+    function refresh()
+    {
+        location.reload(true);
+    }
+</script>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />     
+        <style>            
+            ol li {
+                list-style-type: lower-latin;
+            }
+
+            .row {
+                margin-right: 5mm;
+                margin-left: 3mm;
+                width: 175mm;
+                font-size: 11px;
+                padding-left: 5mm;
+            }
+
+            .row-tablemargen {                
+                margin-left: 10mm;
+                width: 170mm;
+            }
+
+            .row:before,
+            .row:after {
+                display: table;
+                content: " ";
+            }
+
+            .row:after {
+                clear: both;
+            }
+
+            .row:before,
+            .row:after {
+                display: table;
+                content: " ";
+            }
+
+            .row:after {
+                clear: both;
+            }
+
+
+            .col-lg-1,            
+            .col-lg-2,            
+            .col-lg-3,            
+            .col-lg-4,            
+            .col-lg-5,            
+            .col-lg-6,            
+            .col-lg-7,            
+            .col-lg-8,            
+            .col-lg-9,            
+            .col-lg-10,            
+            .col-lg-11,            
+            .col-lg-12 {
+                position: relative;
+                min-height: 1px;
+                padding-right: 15px;
+                padding-left: 15px;
+            }
+
+            .table-striped > tbody > tr:nth-child(odd) > td,
+            .table-striped > tbody > tr:nth-child(odd) > th {
+                background-color: #f9f9f9;
+            }
+
+            table {
+                max-width: 100%;
+                background-color: transparent;                                
+            }
+
+            th {
+                text-align: left;
+            }
+
+            .table1 {
+                width: 100%;
+                margin-bottom: 20px;
+                border-collapse: collapse;
+                border-color: #00FF00;                
+                font-size: 9px;
+            }
+
+            .table1 td { vertical-align: middle; padding: 3px 3px 3px 3px;}
+            .table1 tr:nth-child(even) {
+                background-color: #666666;
+            }
+
+            /*.table1  thead  tr  td { padding-top: 27px; padding-bottom: 7px; }*/
+
+            .table > thead > tr > th,
+            .table > tbody > tr > th,
+            .table > tfoot > tr > th,
+            .table > thead > tr > td,
+            .table > tbody > tr > td,
+            .table > tfoot > tr > td {
+                padding: 8px;
+                line-height: 1.428571429;
+                vertical-align: top;
+                border-top: 1px solid #666666;
+            }
+
+            .table > thead > tr > th {
+                vertical-align: bottom;
+                border-bottom: 2px solid #dddddd;
+            }
+
+            .table > caption + thead > tr:first-child > th,
+            .table > colgroup + thead > tr:first-child > th,
+            .table > thead:first-child > tr:first-child > th,
+            .table > caption + thead > tr:first-child > td,
+            .table > colgroup + thead > tr:first-child > td,
+            .table > thead:first-child > tr:first-child > td {
+                border-top: 0;
+            }
+
+            .table > tbody + tbody {
+                border-top: 2px solid #dddddd;
+            }
+
+            .table .table {
+                background-color: #ffffff;
+            }
+
+            .pagina { }
+
+
+            .row { margin-top: 5px;}
+            .obl { font-weight: bolder; color: red; } 
+            .numericos { padding: 2px; width: 90%; height: 23px; }
+            .txtnum { width: 100px; }         
+            .mas {vertical-align: middle; float: left; text-align: center; min-height: 45px; display: flex; align-items: center; margin-left: 3px; margin-right: 3px;}
+            .cuadrito { vertical-align: middle; font-size: 9px; text-align: center; width: auto; min-height: 45px; height: auto; background-color: #e8e8e8; padding-top: 3px; margin-left: 5px; margin-right: 5px; float: left; border-color: #000000; border-style: ridge; border-width: 1px; }
+            .cuadront { float: left; background-color: #e8e8e8; min-height: 45px; text-align: center; font-size: 9px; }
+            .cuadrito2 { font-size: 0.9em; text-align: center; border-style: double; border-width: 1px; border-color: #000; padding: 3px; }
+
+            .cuadro_two { float: left; height: 80px; width: 90px; background-color: #e2e2e2; align-items: center; padding-top: 10px; }
+            .cuadro_one {float: left; padding: 5px; height: 125px; width: 100px; background-color:  #666666; margin-right: 10px; }
+            .asunto { text-indent: 30px;  }
+            .asunto span { text-decoration: underline; font-weight: 400; }
+            .pruebaa { font-size: 10px; }
+            .textcurvo { font-style: italic; text-decoration: underline; font-weight: 400;  }
+
+
+        </style>                          
+    </head>
+    <body>        
+        
+
+
+        
+
+        No se ha registrado ningún item.                                       
+    </body>
+</html>
+

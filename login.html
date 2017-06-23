@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html >
+    <head>
+        <meta charset="UTF-8">
+        <title>HUMASOFT</title>    
+        <link rel="stylesheet" href="site/css/style_login.css">        
+        <script type="text/javascript" src="site/js/fAjax.js"></script>  
+        <script type="text/javascript" src="site/js/jquery-3.1.1.min.js"></script>                
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#form").submit(function (event) {
+                    //don't forget to pass the event as an argument
+                    //need this, or your page will follow the url defined in the form
+                    event.preventDefault();
+                    var usss = $("#usss").val();
+                    var pass = $("#pass").val();
+
+                    $.post("controller/C_Login.php", {
+                        'uss': usss,
+                        'pas': pass,
+                        'accion': 'login'},
+                            function (data) {
+                                $("#result").html(data); //data is everything you 'echo' on php side
+                            });
+                });
+            });
+        </script>    
+    </head>
+
+    <body>
+
+        <div class="wrapper">
+
+
+            <div class="container">
+                <img src="site/img/bhn-hg-products.jpg" height="100px" />
+                <!--<h1>HUMASOFT INTRANET</h1>-->
+
+                <!--<form class="form">-->
+                <form role="form" id="form" name="form" method="POST" action="#">                    
+                    <input type="text" required="" id="usss" placeholder="Username">
+                    <input type="password" required="" id="pass" placeholder="Password">
+                    <button type="submit" id="">Login</button>
+                    <br/><br/>
+                    <p style="text-align: center">
+                    <a href="ficha-asesor-externo.php">Registrarse ahora</a>
+                    </p>
+                </form>
+
+
+                <div id="result" style="color: black;">
+
+                </div>                        
+
+
+                <ul class="bg-bubbles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+
+
+        </div> 
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>        
+    </body>
+</html>
