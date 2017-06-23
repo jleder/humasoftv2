@@ -114,7 +114,7 @@ if (isset($_SESSION["conectado"])) {
                                                                     <div class="col-lg-12">
 
                                                                         <div class="panel panel-default">
-                                                                            <div class="panel-heading">Datos Generales</div>
+                                                                            <div class="panel-heading">Datos Generales Modificado en Casa</div>
                                                                             <div class="panel-body" style="">
                                                                                 <div class="row">                                                
                                                                                     <div class="col-sm-3">
